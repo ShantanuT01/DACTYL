@@ -33,7 +33,7 @@ pip install dactyl-generation
 
 - `finetuning`: Continues pre-training a Llama 3.2 1B Instruct model for a specific domain.
 - `baselines`: Contains code to get predictions from existing AI-text detectors on the DACTYL dataset.
-- `cpt_generations`: Performs a randomized generation parameter sweep to determine which parameters evade detection better.
+- `cpt_generations`: Performs a randomized generation parameter sweep to determine which parameters evade detection better for the Llama 3.2 1B Instruct models.
 - `training`: Trains an AI-text classifier.
 - `evaluation`: Evaluates DACTYL-trained classifiers.
 
