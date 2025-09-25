@@ -1,0 +1,7 @@
+torch
+pandas
+apollo-torch
+huggingface_hub
+datasets
+python-dotenv
+
