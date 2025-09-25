@@ -1,0 +1,11 @@
+{
+    "domain": "news",
+    "split": "testing",
+    "start_tokens": 49,
+    "max_new_tokens": 99,
+    "parameter_combinations_to_test": 10,
+    "repetition_penalty": 1.0,
+    "temperature": 1.1,
+    "top_p": 1.0,
+    "top_k": 100.0
+}

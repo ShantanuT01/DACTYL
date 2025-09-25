@@ -1,0 +1,23 @@
+
+# generation parameters
+REPETITION_PENALTY = "repetition_penalty"
+TOP_P = "top_p"
+TOP_K = "top_k"
+TEMPERATURE = "temperature"
+MAX_NEW_TOKENS = "max_new_tokens"
+MAX_TOKENS = "max_tokens"
+PROBABILITIES = "probabilities"
+# column names
+MODEL = "model"
+TEXT = "text"
+SCORE = "score"
+MAGE_PRED = "mage_pred"
+AUC_SCORE = "AUC Score"
+PAUC_SCORE = "pAUC Score"
+AP_SCORE = "AP Score"
+START_TOKENS = "start_tokens"
+PROMPT = "prompt"
+SOURCE_TEXT = "source_text"
+SPLIT = "split"
+DOMAIN = "domain"
+TARGET = "target"

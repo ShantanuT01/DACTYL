@@ -1,0 +1,10 @@
+{
+    "domain": "student_essays",
+    "split": "testing",
+    "generation_length_config": "configs/student_essays-testing.json",
+    "sample_texts": 10,
+    "repetition_penalty": 1.0,
+    "temperature": 1.1,
+    "top_p": 1.0,
+    "top_k": 100.0
+}

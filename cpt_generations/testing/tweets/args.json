@@ -1,0 +1,9 @@
+{
+    "domain": "tweets",
+    "split": "testing",
+    "generation_length_config": "configs/tweets-testing.json",
+    "repetition_penalty": 1.25,
+    "temperature": 1.4,
+    "top_p": 0.7000000000000001,
+    "top_k": 90.0
+}

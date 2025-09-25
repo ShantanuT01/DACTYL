@@ -1,0 +1,12 @@
+{
+    "domain": "reviews",
+    "split": "testing",
+    "start_tokens": 31,
+    "max_new_tokens": 62,
+    "parameter_combinations_to_test": 50,
+    "repetition_penalty": 1.0,
+    "temperature": 1.1,
+    "top_p": 1.0,
+    "top_k": 100.0,
+    "generation_length_config": "configs/reviews-testing.json"
+}
